@@ -1,0 +1,88 @@
+/*span.id-name {*/
+/*}*/
+
+a.value {
+    color: black;
+    cursor: pointer;
+
+}
+
+.test-button {
+    /*margin: 0;*/
+    padding: 14px 25px;
+    background-color: rgb(238 237 247);
+    width: 100%;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    border: none;
+}
+
+.id-value {
+
+}
+
+div.task-selection {
+    margin: 10px 0;
+    /*padding: 14px 25px;*/
+    background-color: rgb(238 237 247);
+    width: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+
+}
+
+div.selection {
+    margin: 10px 0;
+    padding: 14px 25px;
+    background-color: rgb(238 237 247);
+    width: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.time {
+    text-align: center;
+}
+
+div.container {
+    width: 80%;
+    padding: 10px;
+    margin: auto;
+    border: 2px solid;
+}
+
+button.next {
+    margin-top: 15px;
+    color: #ffffff;
+    width: 190px;
+    cursor: pointer;
+    padding: 10px 15px;
+    border: none;
+    font-weight: bold;
+    background-color: #2B53FF;
+    border-radius: 15px;
+    float: right;
+}
+
+button.prev {
+    margin-top: 15px;
+    color: #ffffff;
+    width: 190px;
+    cursor: pointer;
+    padding: 10px 15px;
+    border: none;
+    font-weight: bold;
+    background-color: #2B53FF;
+    border-radius: 15px;
+    float: left;
+}
+
+div.button-area {
+    margin-left: 15%;
+    margin-right: 15%;
+}
